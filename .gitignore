@@ -15,3 +15,5 @@ build/
 dist/
 *.egg-info/
 
+credentials.json
+token.json
